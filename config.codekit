@@ -33,15 +33,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/main.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/min\/jquery-min.js": {
 		"fileType": 64,
 		"ignore": 0,

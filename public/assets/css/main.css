@@ -3,7 +3,8 @@ body {
 
 .topContent {
   width: 980px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-bottom: 100px; }
 
 .mainHeader {
   background-color: #9F0A23;
@@ -321,3 +322,9 @@ a.sideLinks {
 #ihrHeader {
   width: 90%;
   margin-left: 0; }
+
+.footImage {
+  background: url(http://placeimg.com/980/250/any); }
+
+.footer {
+  background-color: #443633; }

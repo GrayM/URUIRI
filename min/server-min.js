@@ -1,0 +1,1 @@
+var connect=require("connect"),serveStatic=require("serve-static");connect().use(serveStatic(__dirname)).listen(8e3),console.log("listening on port 8000...");

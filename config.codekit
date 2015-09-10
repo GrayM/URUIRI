@@ -113,22 +113,11 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/public\/assets\/images\/left-arrow-right-hi.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6204,
-		"inputAbbreviatedPath": "\/public\/assets\/images\/left-arrow-right-hi.png",
-		"outputAbbreviatedPath": "\/public\/assets\/images\/left-arrow-right-hi.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/public\/assets\/images\/left.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3424,
+		"initialSize": 1133,
 		"inputAbbreviatedPath": "\/public\/assets\/images\/left.png",
 		"outputAbbreviatedPath": "\/public\/assets\/images\/left.png",
 		"outputPathIsOutsideProject": 0,

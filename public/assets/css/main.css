@@ -1,3 +1,6 @@
+@font-face {
+  font-family: Brushtip;
+  src: url(../fonts/BTTTRIAL.otf); }
 body {
   margin: 0; }
 
@@ -19,8 +22,10 @@ body {
 .usui h3 {
   color: #000000;
   margin-top: 0;
-  font-family: times new roman, times, serif;
-  font-size: 21px;
+  font-family: Brushtip;
+  color: #F5D56B;
+  text-shadow: 3px 3px 3px #000;
+  font-size: 28px;
   margin-top: 5px;
   margin-bottom: 5px; }
 
@@ -59,7 +64,6 @@ h5 {
   padding-left: 15px;
   padding-right: 15px; }
 
-.col-md-3,
 .footImage,
 .footer {
   min-height: 250px;
@@ -82,11 +86,15 @@ h5 {
   margin-top: -12px; }
 
 .news {
-  min-height: 800px; }
+  min-height: 800px;
+  margin-top: 15px;
+  border: 1px dotted black;
+  border-top: none; }
 
 .newsColumn {
   width: 20%;
   margin-left: 30px;
+  border-top: none;
   padding: 0; }
 
 .col-md-4,
@@ -140,6 +148,10 @@ h5 {
   margin: 0;
   padding: 0;
   position: relative; }
+
+.slide img {
+  height: 355px;
+  width: 488px; }
 
 #slideshow #slideshowWindow .slide .slideText {
   position: absolute;
@@ -207,6 +219,13 @@ h5 {
 .announcements {
   padding-left: 0;
   margin-right: 30px; }
+
+.announcementOne a {
+  text-decoration: none;
+  font: normal normal normal 13px/1.4em 'Noticia Text',serif;
+  transition: color 0.4s ease 0s;
+  color: #000000;
+  white-space: nowrap; }
 
 .announcementContainer {
   margin: 10px;

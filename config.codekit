@@ -157,6 +157,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/assets\/images\/massage.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32704,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/massage.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/massage.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/images\/meditation-tim.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 563468,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/meditation-tim.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/meditation-tim.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/images\/meditation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14648,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/meditation.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/meditation.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/images\/monk.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25043,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/monk.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/monk.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/assets\/images\/right.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -164,6 +208,17 @@
 		"initialSize": 1112,
 		"inputAbbreviatedPath": "\/public\/assets\/images\/right.png",
 		"outputAbbreviatedPath": "\/public\/assets\/images\/right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/images\/taichi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 215398,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/taichi.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/taichi.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

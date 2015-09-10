@@ -71,7 +71,7 @@ h5 {
 
 .col-md-9 {
   width: 80%;
-  margin-right: -15px; }
+  margin-right: -7px; }
 
 .col-md-3.slash,
 .col-md-9.numberDate {
@@ -116,7 +116,7 @@ h5 {
   border-bottom: 1px dotted black;
   position: absolute;
   left: 275px;
-  width: 475px;
+  width: 485px;
   margin-top: -75px; }
 
 .links img {
@@ -142,19 +142,19 @@ h5 {
   background-color: black;
   padding-left: 0;
   padding-right: 0;
-  width: 475px;
-  height: 353px;
+  width: 486px;
+  height: 355px;
   overflow: hidden;
   box-shadow: 2px 2px 2px gray;
   position: relative; }
 
 .container img {
-  width: 480px;
+  width: 486px;
   height: 355px; }
 
 .photo {
   position: absolute;
-  animation: round 16s infinite;
+  animation: round 20s infinite;
   opacity: 0; }
 
 @keyframes round {
@@ -284,7 +284,7 @@ h5 {
   padding-left: 0; }
 
 .col-md-5.smallImg {
-  width: 212px;
+  width: 222px;
   padding-right: 0; }
 
 .smallImg {

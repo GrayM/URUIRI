@@ -151,7 +151,10 @@ h5 {
 
 .slide img {
   height: 355px;
-  width: 488px; }
+  width: 492px; }
+
+.taichi img {
+  width: 515px; }
 
 #slideshow #slideshowWindow .slide .slideText {
   position: absolute;

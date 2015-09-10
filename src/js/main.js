@@ -51,15 +51,16 @@ $(document).ready(function() {
     function manageNav(position) {
         //hide left arrow if position is first slide
         if (position == 0) {
-            $('#leftNav').hide()
+            $('#leftNav').hide();
         } else {
-            $('#leftNav').show()
+            $('#leftNav').show();
         }
         //hide right arrow is slide position is last slide
         if (position == numberOfSlides - 1) {
-            $('#rightNav').hide()
+            $('#rightNav').hide();
+            console.log('manageNav');
         } else {
-            $('#rightNav').show()
+            $('#rightNav').show();
         }
     }
 
@@ -83,6 +84,7 @@ $(document).ready(function() {
         $('#slidesHolder')
             .animate({
                 'marginLeft': slideWidth * (-currentPosition)
+                
             });
     }
 

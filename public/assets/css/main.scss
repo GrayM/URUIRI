@@ -38,9 +38,9 @@ body {
 }
 
 h5 {
-    color: #000000;
-    margin-top: 0px;
-    font-family: times new roman, times, serif;
+    font-family:Noticia Text;
+    color:black;
+    margin-top:0;
 }
 
 .navLinks {
@@ -84,7 +84,10 @@ h5 {
     min-height: 250px;
     border: 1px dotted black;
 }
-
+.col-md-9 {
+	width:80%;
+	margin-right:-15px;
+}
 .col-md-3.slash,
 .col-md-9.numberDate {
     min-height: 0;
@@ -112,8 +115,7 @@ h5 {
 }
 
 .newsColumn {
-    width: 20%;
-    margin-left: 30px;
+    width: 18%;
     border-top:none;
     padding: 0;
 }
@@ -163,59 +165,35 @@ h5 {
     width: 60px;
 }
 
-#slideshow {
-    width: 750px;
-}
+.container{
+	padding-left:0;
+	padding-right:0;
+  width:475px;
+  height:353px;
+  overflow:hidden;
+  box-shadow:2px 2px 2px gray;
+  position:relative;
 
-#slideshow #slideshowWindow {
-    // min-height:400px;
-    // height:257px;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    overflow: hidden;
 }
-
-#slideshow #slideshowWindow .slide {
-    margin: 0;
-    padding: 0;
-    // width:500px; 
-    // height:257px;
-    position: relative;
-}
-.slide img {
+.container img {
+	width:480px;
 	height:355px;
-	width:492px;
 }
-.taichi img {
-	width:515px;
+.photo{
+  position:absolute;
+  animation:round 16s infinite;
+  opacity:0;
+  
 }
+@keyframes round{   
+  25%{opacity:1;}
+  40%{opacity:0;}
+} 
 
-#slideshow #slideshowWindow .slide .slideText {
-    position: absolute;
-    top: 130px;
-    left: 0px;
-    width: 100%;
-    height: 130px;
-    background-image: url(greyBg.png);
-    background-repeat: repeat;
-    margin: 0;
-    padding: 0;
-    color: #ffffff;
-    font-family: Myriad Pro, Arial, Helvetica, sans-serif;
-}
-
-#slideshow #slideshowWindow .slide .slideText a:link,
-#slideshow #slideshowWindow .slide .slideText a:visited {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-#slideshow #slideshowWindow .slide .slideText h2,
-#slideshow #slideshowWindow .slide .slideText p {
-    margin: 10px 0 0 10px;
-    padding: 0;
-}
+img:nth-child(4){animation-delay:0s;}
+img:nth-child(3){animation-delay:4s;}
+img:nth-child(2){animation-delay:8s;}
+img:nth-child(1){animation-delay:12s;}
 
 .nav {
     display: block;
@@ -265,7 +243,7 @@ h5 {
 
 .announcements {
     padding-left: 0;
-    margin-right: 30px;
+    margin-right: 15px;
 }
 .announcementOne a {
 	text-decoration: none;

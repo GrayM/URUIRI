@@ -113,6 +113,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/assets\/images\/group.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92918,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/group.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/group.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/assets\/images\/left.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -208,6 +219,17 @@
 		"initialSize": 215398,
 		"inputAbbreviatedPath": "\/public\/assets\/images\/taichi.png",
 		"outputAbbreviatedPath": "\/public\/assets\/images\/taichi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/assets\/images\/usuilogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6334,
+		"inputAbbreviatedPath": "\/public\/assets\/images\/usuilogo.png",
+		"outputAbbreviatedPath": "\/public\/assets\/images\/usuilogo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

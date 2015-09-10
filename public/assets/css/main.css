@@ -139,6 +139,7 @@ h5 {
   width: 60px; }
 
 .container {
+  background-color: black;
   padding-left: 0;
   padding-right: 0;
   width: 475px;
